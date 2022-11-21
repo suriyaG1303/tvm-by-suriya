@@ -1,0 +1,225 @@
+.font{
+    font-family:monospace;
+}
+h1{ font-family : Roboto;font-size : 48px;line-height : 56px; text-align: inherit; color : #35343d; font-style :normal;}
+h2, h2 a { font-family :Roboto;font-size :36px;line-height :44px; text-align:inherit; color :#353432;font-weight :400;font-style :normal;}
+h3, h3 a{ font-family :Roboto;font-size :24px;line-height :32px; text-align:inherit; color :#35343d;font-weight :500;font-style:normal;}
+h4, h4 a { font-family :Roboto;font-size :21px;line-height :29px; text-align:inherit; color :#414a4a; font-style :normal;}
+h5,h5 > a { font-family :Roboto;font-size :18px;line-height :26px; text-align:inherit; color :#414a4a; font-style :normal;}
+h6 { font-family :Roboto;font-size :16px;line-height :24px; text-align:inherit; color :#414a4a; font-style :normal;}
+body, p,html{ font-family :Roboto;font-size : 14px;line-height :22px; text-align:inherit; color :#757575; }
+.tpt-header-wrapper .primary-menu .tpt-main-menu > li > a{font-family :monospace;font-size : 14px;line-height :80px;}
+.tpt-header-wrapper .tpt-main-menu li .sub-menu li a{font-family :Roboto;font-size : 16px;line-height :24px;}
+a{ text-decoration: none; font-family :Roboto;font-size :14px;text-align:inherit; color :#757574; font-style :normal;}
+.button{ font-family :Roboto;font-size :14px; text-align:inherit;font-style :normal;}
+.tpt-404-page-wrapper{background-color: #ffffff;}
+.tpt-sidebar-bg.tpt-title-bar-bg{background-color: #35343d;}
+.tpt-footer-top-bg{background: linear-gradient(to right, rgba(53,52,61,1), rgba(53,52,61,1)); } 
+.tpt-footer-bottom-bg{background: linear-gradient(to right, rgba(38,38,44,1), rgba(38,38,44,1)); }
+body{background-color: #ffffff; }
+.tpt-content-bottom{background-color: #f4f4f4; }
+.tpt-search-wrap .content-area .tpt-post-grid,
+.tpt-border-btm .post.hentry,
+.widget.widget_archive li,
+.widget.widget_tpt_postlist .tpt-post-list-item,
+.widget.widget_recent_entries li,
+ .widget.widget_recent_comments .recentcomments,
+  .widget.widget_categories ul li a,
+   .widget.widget_meta ul li a,
+    .tpt-pricing-services li,
+     .team-detail-single-content ul li,
+      #comments .comment-body{border-bottom:1px solid #e7e7e7; } 
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+ input[type="tel"],
+  input[type="number"],
+   textarea,
+    .form-control,
+    select,pre,
+    .tpt-list-wrap .tpt-meta-info,
+    .tpt-post-detail,table, th, td,.sticky,.tpt-tabs .tpt-tabs-listing-links li.active a,.tpt-box-layout .tpt-grid-slider .tpt-sec-content,
+    .tpt-post-grid-wrap .tpt-post-content,.txt-block-sec, .tpt-text-block-widget, .tpt-icon-bg span,.tpt-pagination-nav .page-numbers li:hover,
+    .tpt-pagination-nav .page-numbers li span.current,.widget.widget_text_block .text-block-widget,.widget.widget_service-list .service-list-wrap ul,
+     .widget.widget_tag_cloud a {border: 1px solid #e7e7e7; }
+@media(max-width:767px){.tpt-drop-nav{ border:1px solid #e7e7e7;} }
+.slick-dots li button,
+.tpt-blog-grid .tpt-grid-item .tpt-blog-content {border:2px solid #e7e7e7; }
+.tpt-sticky-header{left: 0;position: fixed;right: 0;top: 0;z-index: 99; }
+.error404 h1, .error404 h2, .error404 h3, .error404 h4, .error404 h5, .error404 h6, .error404 p{color: #000000; }
+.tpt-undermaintainance{background-color: #000000;} .tpt-undermaintainance h1{color: #ffffff; } 
+.woocommerce ul.products li.product .price, mark, .woocommerce-Price-amount.amount{color: #757574; }
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product{width : 22.05%;}
+#content{padding-top: 0px;padding-bottom: 0px; } 
+.tpt-light-txt h1, 
+.tpt-light-txt h2, 
+.tpt-light-txt h3, 
+.tpt-light-txt h4, 
+.tpt-light-txt h5, 
+.tpt-light-txt h6, 
+.tpt-light-txt span, 
+.tpt-light-txt a, 
+.tpt-light-txt p, 
+.tpt-light-txt i, 
+.tpt-light-txt li, 
+.tpt-light-txt li span, 
+.tpt-light-txt address, 
+.tpt-light-txt blockquote, 
+.tpt-light-txt .tpt-meta-info span i, 
+.tpt-light-txt .tpt-meta-info span, 
+.tpt-light-txt .tpt-meta-info span a{color: #ffffff;} 
+.tpt-dark-txt, 
+.tpt-dark-txt h1, 
+.tpt-dark-txt h2, 
+.tpt-dark-txt h3, 
+.tpt-dark-txt h4, 
+.tpt-dark-txt h5, 
+.tpt-dark-txt h6, 
+.tpt-dark-txt span, 
+.tpt-dark-txt p, 
+.tpt-dark-txt i, 
+.tpt-dark-txt li, 
+.tpt-dark-txt li span, 
+.tpt-dark-txt address, 
+.tpt-dark-txt .tpt-meta-info span i, 
+.tpt-dark-txt .tpt-meta-info span, 
+.tpt-dark-txt .tpt-meta-info span a{color: #35343d; } 
+.widget.widget_categories .cat-item a:hover,
+.stars.selected a,
+.woocommerce .star-rating span,
+.stars a,.stars a:hover{color : #ff7f00; } 
+.tpt-grid-slider-wrap:hover .tpt-feature-thumb img {border: 3px solid #ff7f00; }
+.tpt-play-icon a:hover, 
+.countdown-wrapper li span, 
+.tpt-testimonial-info h3, 
+.tpt-post-detail a:hover{color: #ff7f00; } 
+.blog-social-info-wrap .tags-links a:hover, 
+.tpt-comment-section-wrapper .tpt-sec-title h5, 
+.tpt-contact-info .tpt-icon-wrap i{color: #ff7f00; }
+.woocommerce ul.products li.product:hover{border-color: #ff7f00; }
+.woocommerce span.onsale, 
+.txt-block-sec:hover {background: #ff7f00; } 
+.tpt-basic-qus .panel-heading:hover a{background: #ff7f00; }
+.widget.widget_tpt_contactinfo .tpt-address-info{background: #ff7f00; }
+.woocommerce ul .product h3, 
+.tpt-pagination-nav .page-numbers li:hover a, 
+.tpt-pagination-nav .page-numbers li span.current, 
+.tpt-pagination-nav .page-numbers li:hover span, 
+.woocommerce-info a, 
+.woocommerce .products .woocommerce-Price-amount.amount, 
+.woocommerce ul.products li.product .price, mark, 
+.woocommerce-Price-amount.amount , 
+.widget.widget_tpt_postlist .tpt-video.tpt-overlay-wrap:hover .popup-video {color: #ff7f00; } 
+.woocommerce ul.products li.product img:hover{border-color: #ff7f00; } 
+.tpt-timeline-wrapper .tpt-timeline-content .circle {background: #ff7f00;border: 3px solid #ff7f00; } 
+.tpt-testimonial-grid-slider blockquote::before {color: #ff7f00; } 
+.wpb-js-composer .faq-wrap .vc_tta-panel .vc_tta-panel-heading:focus h4 a, 
+.wpb-js-composer .faq-wrap .vc_tta-panel .vc_tta-panel-heading:hover h4 a, 
+.wpb-js-composer .faq-wrap .vc_tta-panel .vc_tta-panel-heading:focus h4 a i, 
+.wpb-js-composer .faq-wrap .vc_tta-panel .vc_tta-panel-heading:hover h4 a i{color: #ff7f00; }
+.tpt-text-block-sec:hover .tpt-overlay-content, 
+.our-professional-wrap .tpt-overlay-content, 
+.tpt-post-grid2 .tpt-overlay-wrap:hover .tpt-overlay-content { background-color: rgba(255,127,0,0.8);} 
+.tpt-blog-grid .tpt-overlay-content, 
+.tpt-overlay-grid .tpt-overlay-content, 
+.tpt-base-grid .tpt-overlay-content{ background-color: rgba(255,127,0,0.75);}
+.social-icon li a i:hover {color: #ff7f00 }
+blockquote{border-color: #ff7f00; } 
+.tpt-pricing-even-block .tpt-pricing-block-head, 
+.tpt-linear-gradient{background: linear-gradient(to right,rgba(255,127,0,1), rgba(128,64,0,1)); } 
+.tpt-overlay-grid2 .tpt-overlay-content{background: linear-gradient(to left,rgba(255,127,0,1), rgba(128,64,0,1)); } 
+.tpt-footer-top, 
+.tpt-footer-top a, 
+.tpt-footer-top span, 
+.tpt-footer-top i, 
+.tpt-footer-top address, 
+.tpt-footer-top p, 
+.tpt-footer-top h1, 
+.tpt-footer-top h2, 
+.tpt-footer-top h3, 
+.tpt-footer-top h4, 
+.tpt-footer-top h5, 
+.tpt-footer-top h6, 
+.tpt-footer-top .tpt-social-icons li a i, 
+.tpt-footer-top .widget.widget_recent_comments .comment-author-link a, 
+.tpt-footer-top .widget.widget_recent_comments .comment-author-link, 
+.tpt-footer-top caption {color: #ffffff; } 
+.tpt-footer-bottom, 
+.tpt-footer-bottom a, 
+.tpt-footer-bottom span, 
+.tpt-footer-bottom p, 
+.tpt-footer-bottom .tpt-social-icons li a i {color: #afafaf; }
+.tpt-top-header{ background-color: #1d57ec;}
+.tpt-header .tpt-middle-bg{ background-color: #ffffff;} 
+.tpt-header-v1 .tpt-middle-bg::after, 
+.tpt-header-v1 .tpt-middle-bg::before{border-color: #ffffff transparent transparent; }
+.tpt-bottom-header{background-color: #2856d2;} 
+.tpt-bottom-header .calculator-btn{background: #1c3c93; } 
+.tpt-top-header a, 
+.tpt-top-header i, 
+.tpt-top-header address, 
+.tpt-top-header span, 
+.tpt-top-header span a, 
+.tpt-top-header 
+.tpt-social-icons li a i, 
+.tpt-search-icon input[type="text"], 
+.tpt-search-icon 
+.tpt-search-form-title, 
+.tpt-top-header h1, 
+.tpt-top-header h2, 
+.tpt-top-header h3, 
+.tpt-top-header h4, 
+.tpt-top-header h5, 
+.tpt-top-header h6, 
+.tpt-top-header li, 
+.tpt-top-header 
+.tpt-close-button, 
+.tpt-top-header 
+.tpt-search-form-title, 
+.tpt-top-header p, 
+.tpt-top-header 
+.widget 
+.comment-author-link{color: #ffffff; }  
+button:hover, 
+button:focus, 
+button[disabled]:hover, 
+button[disabled]:focus, 
+input[type="button"]:hover, 
+input[type="button"]:focus, 
+input[type="reset"]:hover, 
+input[type="reset"]:focus, 
+input[type="submit"]:hover, 
+input[type="submit"]:focus, 
+.tpt-button:hover, 
+.tpt-button:focus, 
+.woocommerce #respond input#submit:hover, 
+.woocommerce #respond input#submit:focus, 
+.woocommerce a.button:hover, 
+.woocommerce a.button:focus, 
+.woocommerce button.button:hover,
+.woocommerce button.button:focus, 
+.woocommerce input.button:hover, 
+.woocommerce input.button:focus, 
+.woocommerce a.button.alt:hover, 
+.woocommerce a.button.alt:focus, 
+.woocommerce button.button.alt:hover,
+.woocommerce button.button.alt:focus,
+.woocommerce input.button.alt:hover, 
+.woocommerce input.button.alt:focus, 
+.tpt-download a:hover, 
+.tpt-get-in-touch a:hover, 
+.woocommerce button.button.alt.disabled:hover, 
+.woocommerce button.button.alt.disabled:focus, 
+.woocommerce button.button.alt[disabled]:disabled:hover, 
+.woocommerce button.button.alt[disabled]:disabled:focus{color: #1d57ec; } 
+.tpt-read-more .tpt-button{ background: #1d57ec; border: 1px solid #1d57ec;}
+.tpt-overlay-grid .tpt-sec-title { border-bottom: 2px solid #1d57ec;}
+.tpt-read-more .tpt-button:hover{ background: #ffffff; border: 1px solid #1d57ec;}
+.tpt-read-more .tpt-button:active{ background: #ffffff; border: 1px solid #1d57ec;} 
+.tpt-read-more a.tpt-button, .tpt-read-more a.read-more-link{ color: #ffffff;}
+.tpt-read-more a.tpt-button:hover{ color: #1d57ec; border:1px solid #1d57ec;}
+.tpt-read-more a.read-more-link:hover{ color: #1d57ec;}
+.tpt-read-more a.tpt-button:active{ color: #1d57ec; border: 1px solid #1d57ec;}
+.tpt-read-more a.read-more-link:active{ color: #1d57ec;}
